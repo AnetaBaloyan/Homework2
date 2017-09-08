@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzl3GKsPP5JGUE-e73M6ImD98SIg78U62HGwN91PgEZEKaacFh_Q");
+ background-repeat: no-repeat;
+ background-position: left top;
+ 
+}
+#blank {
+    height: 200px;
+}
