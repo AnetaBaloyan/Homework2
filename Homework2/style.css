@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+ background-image: url("baby.jpg");
+ background-repeat: no-repeat;
+ background-position: center top;
+ background-attachment: fixed;
+ background-size: 100%;
+ 
+}
+#main {
+    background-color: rgba(173, 216, 230, 0.5);
+    height: 700px;
+    width: 60%;
+    margin: 20px 20% 40px 20%;
+    overflow: scroll;
+}
+#IrisScott {
+    height: 200px;  
+    display: block;
+    margin: auto;
+    
+}
+
+#title {
+    font-family: 'Abril Fatface', cursive, serif;
+    text-align: center;
+}
+.textbox {
+    font-family: 'Abril Fatface', cursive, serif;
+    text-align: left;
+    padding: 20px 20% 40px 20%;
+}
